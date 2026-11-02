@@ -6,4 +6,4 @@
 [Klik di sini untuk menonton video praktikum IPv4] https://drive.google.com/file/d/1KrpNu0q1t2ftLa9sHOks15-U5vtRrNWa/view?usp=sharing
 
 #Video Praktikum 3 Default Gateaway
-[Klik di sini untuk menonton video praktikum IPv4] https://drive.google.com/file/d/1QJUHQghfkCdjdIm-6T3FNP-GIUsNRtcF/view?usp=sharing
+[Klik di sini untuk menonton video] https://drive.google.com/file/d/1QJUHQghfkCdjdIm-6T3FNP-GIUsNRtcF/view?usp=sharing
