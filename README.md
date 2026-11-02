@@ -5,5 +5,5 @@
 #Video Praktikum 2 Pengalamatan IPv4
 [Klik di sini untuk menonton video praktikum IPv4] https://drive.google.com/file/d/1KrpNu0q1t2ftLa9sHOks15-U5vtRrNWa/view?usp=sharing
 
-#Video Praktikum 3 Default Gateaway
+#Video Praktikum 3 Default Gateway
 [Klik di sini untuk menonton video] https://drive.google.com/file/d/1QJUHQghfkCdjdIm-6T3FNP-GIUsNRtcF/view?usp=sharing
